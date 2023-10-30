@@ -1,3 +1,4 @@
+#Substitution Permutation Network
 import random
 
 def getperm(l):
