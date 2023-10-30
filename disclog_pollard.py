@@ -1,4 +1,4 @@
-#Pollard Rho discrete version
+#Pollard Rho discrete logarithm version
 
 def modinv(num, mod):
     if num == 1:
