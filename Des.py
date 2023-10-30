@@ -1,3 +1,4 @@
+#Data Encryption Standard
 def init_per(pt):
     pt_str = list(pt)
     res = [None] * len(pt_str)
